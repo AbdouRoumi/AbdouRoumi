@@ -12,4 +12,4 @@
 <p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=AbdouRoumi&theme=highcontrast" alt="AbdouRoumi" /></p>
 ## `👨‍💻` DEVELOPMENT
 
-[![](https://skillicons.dev/icons?i=c,python,bash,neovim,vim,visualstudio,vscode,windows,js,html,css,mongodb,mysql,nodejs,expressjs)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,python,bash,neovim,vim,visualstudio,vscode,windows,js,html,css,mongodb,mysql,nodejs,expressjs,docker)](https://skillicons.dev)
