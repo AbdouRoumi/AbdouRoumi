@@ -1,6 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=2000&pause=1000&width=435&lines=Welcome+to+E1B1g's+Spot!!!;Check+my+Repos+for+some+Malwares;Shadow+Boxing+with+IDA;Currently+learning+AV+And+EDR+EVASION)](https://git.io/typing-svg)
 
-💬 **Me**: Hey! I'm a student and an offensive security enthusiast focusing on Malware Devlopment, reverse engineering,red teaming. Also I'm a Backend Developer .
+💬 **Me**: Hey! I'm **Abdou**, a **Malware Researcher** and **Pentester**. I'm passionate about **Reverse Engineering**, **Binary Exploitation**, and **Malware Development**. On the development side, I'm a **Backend Developer**, but my true passion lies in creating tools that challenge security systems.  
+
 📫 How to reach me **<a_roumi@estin.dz>**
 
 ⭐ **Certifications**: `CCNA1`, `CCNA2`
