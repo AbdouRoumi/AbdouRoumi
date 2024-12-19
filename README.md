@@ -14,7 +14,6 @@
 
 #  `👨‍💻` DEVELOPMENT
 
-[![](https://skillicons.dev/icons?i=c,C++,linux,python,bash,neovim,vim,visualstudio,vscode,windows,js,html,css,mongodb,mysql,nodejs,expressjs,docker,fastapi,Django)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,linux,python,bash,neovim,vim,visualstudio,vscode,windows,js,html,css,mongodb,mysql,nodejs,expressjs,docker,fastapi,Django)](https://skillicons.dev)
 ****
 
-<img src="https://raw.githubusercontent.com/AbdouRoumi/AbdouRoumi/output/snake.svg" alt="Snake animation" />
