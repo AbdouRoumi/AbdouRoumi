@@ -9,8 +9,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdouRoumi&layout=compact&count_private=true&theme=dark&hide=c%2b%2b,Cmake,ShaderLab,Makefile,Mathematica,HLSL,rOFF,SWIFT,Unity3D%20Asset&langs_count=10" alt="AbdouRoumi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdouRoumi&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" alt="AbdouRoumi" /></p>
-
 <p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=AbdouRoumi&theme=highcontrast" alt="AbdouRoumi" /></p>
 
 
