@@ -16,6 +16,6 @@
 
 #  `👨‍💻` DEVELOPMENT
 
-[![](https://skillicons.dev/icons?i=c,linux,python,bash,neovim,vim,visualstudio,vscode,windows,js,html,css,mongodb,mysql,nodejs,expressjs,docker,fastapi,Django)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,linux,python,bash,neovim,vim,visualstudio,vscode,windows,js,html,css,mongodb,mysql,nodejs,expressjs,docker,fastapi,Django)](https://skillicons.dev)
 ****
 
