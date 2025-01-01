@@ -4,7 +4,7 @@
 
 📫 How to reach me **<a_roumi@estin.dz>**
 
-⭐ **Certifications**: `CCNA1`, `CCNA2`
+⭐ **Certifications**: `CCNA1`, `CCNA2`, `CCNA3`,`Jr Cybersecurity analyst`
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdouRoumi&layout=compact&count_private=true&theme=dark&hide=c%2b%2b,Cmake,ShaderLab,Makefile,Mathematica,HLSL,rOFF,SWIFT,Unity3D%20Asset&langs_count=10" alt="AbdouRoumi" /></p>
