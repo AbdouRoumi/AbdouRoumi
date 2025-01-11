@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=2000&pause=1000&width=435&lines=Welcome+to+E1B1g's+Spot!!!;Check+my+Repos+for+some+Malwares;Shadow+Boxing+with+IDA;Currently+learning+AV+And+EDR+EVASION)](https://git.io/typing-svg)
 
-💬 **Me**: Hey! I'm **Abdou**, a **Malware Researcher**, **CTF author** and **Pentester**. I'm passionate about **Reverse Engineering**, **Binary Exploitation**, and **Malware Development & Analysis**. On the development side, I'm a **Backend Developer** and I also love to develop tools that can be used by Malware Researchers in their journey.  
+💬 **Me**: Hey! I'm **Abdou**, a **Malware Researcher**, **CTF author** and **Pentester**. I'm passionate about **Reverse Engineering**, **Binary Exploitation**, **Malware Development & Analysis**. On the development side, I'm a **Backend Developer** and I also love to develop tools that can be used by Malware Researchers in their journey.  
 
 📫 How to reach me **<a_roumi@estin.dz>**
 
